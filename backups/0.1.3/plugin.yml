@@ -1,0 +1,14 @@
+name: WarOfWarlord
+main: omwro.warofwarlord.Plugin
+version: 0.1.3
+api-version: 1.14
+description: The gamemode War of Warlord.
+author: Omer Erdem
+website: https://omererdem.nl/
+
+commands:
+ wow:
+   usage: /<command>
+
+
+

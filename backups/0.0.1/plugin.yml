@@ -1,0 +1,20 @@
+name: FirstTry
+main: omwro.firsttry.Plugin
+version: 0.0.1
+api-version: 1.14
+description: my first plugin.
+author: omwro
+prefix: Testing
+
+commands:
+ start:
+  usage: /<command>
+ join:
+  usage: /<command>
+ leave:
+  usage: /<command>
+ check:
+   usage: /<command>
+
+
+
